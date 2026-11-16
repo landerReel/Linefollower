@@ -1,2 +1,2 @@
 # start/stop interrupt proof of concept
-minimale hard- en software die de correcte werking van een start/stop drukknop aantoont, gebruik makend van een hardware interrupt
+<img width="733" height="493" alt="image" src="https://github.com/user-attachments/assets/ef21965c-e3cd-4145-8cf6-741e26ef961e" />
