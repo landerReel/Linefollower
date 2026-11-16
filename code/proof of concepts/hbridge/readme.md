@@ -1,6 +1,5 @@
 # H-Bridge proof of concept
-H-Bridge proof of concept
-Met deze test controleren we of de DRV8833 twee motoren onafhankelijk kan aansturen.
+Controleren of de DRV8833 twee motoren onafhankelijk kan aansturen.
 
 De twee motoren kunnen apart:
 
@@ -13,4 +12,4 @@ De ESP32 stuurt de DRV8833 aan. De DRV8833 stuurt vervolgens de twee motoren aan
 
 
 Resultaat
-De twee motoren kunnen onafhankelijk in snelheid en richting worden geregeld. De H-Bridge werkt dus zoals verwacht.
+De twee motoren kunnen onafhankelijk in snelheid en richting worden geregeld. De H-Bridge werkt.
